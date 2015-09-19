@@ -1,6 +1,6 @@
 ---
-anchor: getting_started
+anchor: শুরু
 ---
 
-# Getting Started {#getting_started_title}
+# শুরু {#getting_started_title}
 
